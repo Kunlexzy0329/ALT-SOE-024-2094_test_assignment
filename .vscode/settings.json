@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "book_recreate"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
